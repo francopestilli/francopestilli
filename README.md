@@ -6,7 +6,6 @@ I work in a Public University because I believe in science and education. I like
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=francopestilli&show_icons=true&hide_border=true)
 
-
 ### Check my repositories.
 
 You can find my software work on [GitHub.com/francopestilli](https://github.com/francopestilli)
@@ -15,6 +14,10 @@ You can find my software work on [GitHub.com/francopestilli](https://github.com/
 
 Connect with me on social media.
 
-[twitter]: https://twitter.com/furranko
-[youtube]: https://www.youtube.com/channel/UCM225VDjMMhETLgE8_OcEMw
-[linkedin]: https://www.linkedin.com/in/francopestilli/
+[twitter](https://twitter.com/furranko)
+
+[youtube](https://www.youtube.com/channel/UCM225VDjMMhETLgE8_OcEMw)
+
+[linkedin](https://www.linkedin.com/in/francopestilli/)
+
+⭐ From [francopestilli](https://github.com/francopestilli)
