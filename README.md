@@ -1,8 +1,8 @@
 # Franco Pestilli 🌱
 
-#### Associate Professor at The University of Texas at Austin. I am interested in Psychology, Neuroscience and Data Science.
+#### Associate Professor at The University of Texas at Austin. 
 
-I work in a University because I believe in science and education. I like to think that by teaching young minds how to think critically and how to use cutting edge tools, like coding, we can make the world a better place. It is not a simple task, but I believe we can. 
+I am interested in Psychology, Neuroscience, Computer Science, Informatics, Data sharing and Data Science. I work in a University because I believe in science and education. I like to think that by teaching young minds how to think critically and how to use cutting edge tools, like coding, we can make the world a better place. It is not a simple task, but I believe we can. 
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=francopestilli&show_icons=true&hide_border=true)
 
