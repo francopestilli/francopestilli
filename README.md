@@ -11,8 +11,7 @@ I am interested in Psychology, Neuroscience, Computer Science, Informatics, Data
 [![YouTube Badge](https://img.shields.io/youtube/channel/views/UCM225VDjMMhETLgE8_OcEMw?style=flat&logo=youtube)](https://www.youtube.com/channel/UCM225VDjMMhETLgE8_OcEMw)
 [![brainlife.io badge](https://img.shields.io/badge/brainlife.io-slack-blue?style=flat&logo=brainlife)](https://brainlife-inviter.herokuapp.com/)
 
-If you found any of my work helpful please given me a ⭐ 
-From [francopestilli](https://github.com/francopestilli)
+If you find any of my work helpful please given me a ⭐ [francopestilli](https://github.com/francopestilli)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=francopestilli)
 
