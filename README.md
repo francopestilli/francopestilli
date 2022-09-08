@@ -1,7 +1,7 @@
 # Sunday coding 🌱
  *nice*
 I am interested in Psychology, Neuroscience, Machine Learning, Informatics, Data Sharing and Governance and Data science. I work in a University because I believe in science and education. I like to think that by teaching young minds how to think critically and how to use cutting edge tools and data, we can make the world a better place. It is not a simple task, but I believe we can improve society. 
-
+  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=francopestilli&show_icons=true&hide_border=true)
 
 #### Connect with me on social media.
